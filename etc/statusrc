@@ -58,7 +58,7 @@
 #MONITORED_TEMP=/proc/acpi/thermal_zone/THM0/temperature
 
 # Default: C
-#TEMP=F
+TEMP=F
 
 #SERVICES="eucalyptus-nc|NC eucalyptus-cloud|CLC eucalyptus-walrus eucalyptus-cc|CC eucalyptus-sc|SC"
 
