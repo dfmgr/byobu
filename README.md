@@ -5,7 +5,7 @@ byobu is a script that launches a text based window manager
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/byobu/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/byobu/raw/main/install.sh)"
 ```
 
 Manual install:
