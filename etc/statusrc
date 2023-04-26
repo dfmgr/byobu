@@ -1,4 +1,4 @@
-#    statusrc - Byobu's default status configurations
+# statusrc - Byobu's default status configurations
 #
 #      Override these in $BYOBU_CONFIG_DIR/statusrc
 #      where BYOBU_CONFIG_DIR is XDG_CONFIG_HOME if defined,
